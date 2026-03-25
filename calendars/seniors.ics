@@ -7,7 +7,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:fixture-2026-04-10-bye@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260410T100000
 DTEND;TZID=Australia/Perth:20260410T120000
 SUMMARY:Seniors: BYE vs Ellenbrook Rabbitohs — Round 1
@@ -16,7 +16,7 @@ LOCATION:BYE (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-04-10-joondalup-giants@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260410T153000
 DTEND;TZID=Australia/Perth:20260410T173000
 SUMMARY:Seniors: Joondalup Giants vs North Beach Sea Eagles — Round 1
@@ -25,7 +25,7 @@ LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-04-10-rockingham-sharks@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260410T153000
 DTEND;TZID=Australia/Perth:20260410T173000
 SUMMARY:Seniors: Rockingham Sharks vs Kwinana Titans — Round 1
@@ -34,7 +34,7 @@ LOCATION:Franklin Offshore Stadium\, Lark Hill Sportsplex\, Port Kennedy
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-04-10-south-perth-lions@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260410T153000
 DTEND;TZID=Australia/Perth:20260410T173000
 SUMMARY:Seniors: South Perth Lions vs Kalamunda Bulldogs — Round 1
@@ -43,7 +43,7 @@ LOCATION:George Burnett Park\, Karawara
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-04-10-willagee-bears@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260410T153000
 DTEND;TZID=Australia/Perth:20260410T173000
 SUMMARY:Seniors: Willagee Bears vs Fremantle Roosters — Round 1
@@ -52,7 +52,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-04-18-ellenbrook-rabbitohs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260418T153000
 DTEND;TZID=Australia/Perth:20260418T173000
 SUMMARY:Seniors: Ellenbrook Rabbitohs vs Kalamunda Bulldogs — Round 2
@@ -61,7 +61,7 @@ LOCATION:Charlottes Vineyard Sports Pavilion\, Ellenbrook
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-04-18-fremantle-roosters@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260418T153000
 DTEND;TZID=Australia/Perth:20260418T173000
 SUMMARY:Seniors: Fremantle Roosters vs Rockingham Sharks — Round 2
@@ -70,7 +70,7 @@ LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-04-18-joondalup-giants@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260418T153000
 DTEND;TZID=Australia/Perth:20260418T173000
 SUMMARY:Seniors: Joondalup Giants vs South Perth Lions — Round 2
@@ -79,7 +79,7 @@ LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-04-18-north-beach-sea-eagles@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260418T100000
 DTEND;TZID=Australia/Perth:20260418T120000
 SUMMARY:Seniors: North Beach Sea Eagles vs BYE — Round 2
@@ -88,7 +88,7 @@ LOCATION:North Beach Sea Eagles (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-04-18-willagee-bears@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260418T153000
 DTEND;TZID=Australia/Perth:20260418T173000
 SUMMARY:Seniors: Willagee Bears vs Kwinana Titans — Round 2
@@ -97,7 +97,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-02-bye@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260502T100000
 DTEND;TZID=Australia/Perth:20260502T120000
 SUMMARY:Seniors: BYE vs Joondalup Giants — Round 3
@@ -106,7 +106,7 @@ LOCATION:BYE (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-02-kwinana-titans@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260502T153000
 DTEND;TZID=Australia/Perth:20260502T173000
 SUMMARY:Seniors: Kwinana Titans vs Ellenbrook Rabbitohs — Round 3
@@ -115,7 +115,7 @@ LOCATION:Thomas Oval\, Medina
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-02-north-beach-sea-eagles@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260502T153000
 DTEND;TZID=Australia/Perth:20260502T173000
 SUMMARY:Seniors: North Beach Sea Eagles vs Fremantle Roosters — Round 3
@@ -124,7 +124,7 @@ LOCATION:Blueforce Park\, Charles Riley Reserve\, North Beach
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-02-rockingham-sharks@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260502T153000
 DTEND;TZID=Australia/Perth:20260502T173000
 SUMMARY:Seniors: Rockingham Sharks vs Kalamunda Bulldogs — Round 3
@@ -133,7 +133,7 @@ LOCATION:Franklin Offshore Stadium\, Lark Hill Sportsplex\, Port Kennedy
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-02-south-perth-lions@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260502T153000
 DTEND;TZID=Australia/Perth:20260502T173000
 SUMMARY:Seniors: South Perth Lions vs Willagee Bears — Round 3
@@ -142,7 +142,7 @@ LOCATION:George Burnett Park\, Karawara
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-09-ellenbrook-rabbitohs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260509T153000
 DTEND;TZID=Australia/Perth:20260509T173000
 SUMMARY:Seniors: Ellenbrook Rabbitohs vs South Perth Lions — Round 4
@@ -151,7 +151,7 @@ LOCATION:Charlottes Vineyard Sports Pavilion\, Ellenbrook
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-09-fremantle-roosters@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260509T153000
 DTEND;TZID=Australia/Perth:20260509T173000
 SUMMARY:Seniors: Fremantle Roosters vs Joondalup Giants — Round 4
@@ -160,7 +160,7 @@ LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-09-kwinana-titans@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260509T153000
 DTEND;TZID=Australia/Perth:20260509T173000
 SUMMARY:Seniors: Kwinana Titans vs Kalamunda Bulldogs — Round 4
@@ -169,7 +169,7 @@ LOCATION:Thomas Oval\, Medina
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-09-north-beach-sea-eagles@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260509T153000
 DTEND;TZID=Australia/Perth:20260509T173000
 SUMMARY:Seniors: North Beach Sea Eagles vs Rockingham Sharks — Round 4
@@ -178,7 +178,7 @@ LOCATION:Blueforce Park\, Charles Riley Reserve\, North Beach
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-09-willagee-bears@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260509T100000
 DTEND;TZID=Australia/Perth:20260509T120000
 SUMMARY:Seniors: Willagee Bears vs BYE — Round 4
@@ -187,7 +187,7 @@ LOCATION:Willagee Bears (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-16-bye@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260516T100000
 DTEND;TZID=Australia/Perth:20260516T120000
 SUMMARY:Seniors: BYE vs Fremantle Roosters — Round 5
@@ -196,7 +196,7 @@ LOCATION:BYE (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-16-joondalup-giants@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260516T153000
 DTEND;TZID=Australia/Perth:20260516T173000
 SUMMARY:Seniors: Joondalup Giants vs Kwinana Titans — Round 5
@@ -205,7 +205,7 @@ LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-16-kalamunda-bulldogs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260516T153000
 DTEND;TZID=Australia/Perth:20260516T173000
 SUMMARY:Seniors: Kalamunda Bulldogs vs Willagee Bears — Round 5
@@ -214,7 +214,7 @@ LOCATION:Hartfield Park\, Forrestfield
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-16-rockingham-sharks@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260516T153000
 DTEND;TZID=Australia/Perth:20260516T173000
 SUMMARY:Seniors: Rockingham Sharks vs Ellenbrook Rabbitohs — Round 5
@@ -223,7 +223,7 @@ LOCATION:Franklin Offshore Stadium\, Lark Hill Sportsplex\, Port Kennedy
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-16-south-perth-lions@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260516T153000
 DTEND;TZID=Australia/Perth:20260516T173000
 SUMMARY:Seniors: South Perth Lions vs North Beach Sea Eagles — Round 5
@@ -232,7 +232,7 @@ LOCATION:George Burnett Park\, Karawara
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-23-bye@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260523T100000
 DTEND;TZID=Australia/Perth:20260523T120000
 SUMMARY:Seniors: BYE vs Rockingham Sharks — Round 6
@@ -241,7 +241,7 @@ LOCATION:BYE (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-23-fremantle-roosters@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260523T153000
 DTEND;TZID=Australia/Perth:20260523T173000
 SUMMARY:Seniors: Fremantle Roosters vs South Perth Lions — Round 6
@@ -250,7 +250,7 @@ LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-23-joondalup-giants@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260523T153000
 DTEND;TZID=Australia/Perth:20260523T173000
 SUMMARY:Seniors: Joondalup Giants vs Kalamunda Bulldogs — Round 6
@@ -259,7 +259,7 @@ LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-23-north-beach-sea-eagles@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260523T153000
 DTEND;TZID=Australia/Perth:20260523T173000
 SUMMARY:Seniors: North Beach Sea Eagles vs Kwinana Titans — Round 6
@@ -268,7 +268,7 @@ LOCATION:Blueforce Park\, Charles Riley Reserve\, North Beach
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-23-willagee-bears@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260523T153000
 DTEND;TZID=Australia/Perth:20260523T173000
 SUMMARY:Seniors: Willagee Bears vs Ellenbrook Rabbitohs — Round 6
@@ -277,7 +277,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-06-ellenbrook-rabbitohs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260606T153000
 DTEND;TZID=Australia/Perth:20260606T173000
 SUMMARY:Seniors: Ellenbrook Rabbitohs vs Joondalup Giants — Round 7
@@ -286,7 +286,7 @@ LOCATION:Charlottes Vineyard Sports Pavilion\, Ellenbrook
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-06-kalamunda-bulldogs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260606T153000
 DTEND;TZID=Australia/Perth:20260606T173000
 SUMMARY:Seniors: Kalamunda Bulldogs vs North Beach Sea Eagles — Round 7
@@ -295,7 +295,7 @@ LOCATION:Hartfield Park\, Forrestfield
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-06-kwinana-titans@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260606T153000
 DTEND;TZID=Australia/Perth:20260606T173000
 SUMMARY:Seniors: Kwinana Titans vs Fremantle Roosters — Round 7
@@ -304,7 +304,7 @@ LOCATION:Thomas Oval\, Medina
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-06-rockingham-sharks@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260606T153000
 DTEND;TZID=Australia/Perth:20260606T173000
 SUMMARY:Seniors: Rockingham Sharks vs Willagee Bears — Round 7
@@ -313,7 +313,7 @@ LOCATION:Franklin Offshore Stadium\, Lark Hill Sportsplex\, Port Kennedy
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-06-south-perth-lions@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260606T100000
 DTEND;TZID=Australia/Perth:20260606T120000
 SUMMARY:Seniors: South Perth Lions vs BYE — Round 7
@@ -322,7 +322,7 @@ LOCATION:South Perth Lions (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-13-bye@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260613T100000
 DTEND;TZID=Australia/Perth:20260613T120000
 SUMMARY:Seniors: BYE vs Kwinana Titans — Round 8
@@ -331,7 +331,7 @@ LOCATION:BYE (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-13-fremantle-roosters@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260613T153000
 DTEND;TZID=Australia/Perth:20260613T173000
 SUMMARY:Seniors: Fremantle Roosters vs Kalamunda Bulldogs — Round 8
@@ -340,7 +340,7 @@ LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-13-joondalup-giants@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260613T153000
 DTEND;TZID=Australia/Perth:20260613T173000
 SUMMARY:Seniors: Joondalup Giants vs Willagee Bears — Round 8
@@ -349,7 +349,7 @@ LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-13-north-beach-sea-eagles@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260613T153000
 DTEND;TZID=Australia/Perth:20260613T173000
 SUMMARY:Seniors: North Beach Sea Eagles vs Ellenbrook Rabbitohs — Round 8
@@ -358,7 +358,7 @@ LOCATION:Blueforce Park\, Charles Riley Reserve\, North Beach
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-13-south-perth-lions@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260613T153000
 DTEND;TZID=Australia/Perth:20260613T173000
 SUMMARY:Seniors: South Perth Lions vs Rockingham Sharks — Round 8
@@ -367,7 +367,7 @@ LOCATION:George Burnett Park\, Karawara
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-20-ellenbrook-rabbitohs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260620T153000
 DTEND;TZID=Australia/Perth:20260620T173000
 SUMMARY:Seniors: Ellenbrook Rabbitohs vs Fremantle Roosters — Round 9
@@ -376,7 +376,7 @@ LOCATION:Charlottes Vineyard Sports Pavilion\, Ellenbrook
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-20-kalamunda-bulldogs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260620T100000
 DTEND;TZID=Australia/Perth:20260620T120000
 SUMMARY:Seniors: Kalamunda Bulldogs vs BYE — Round 9
@@ -385,7 +385,7 @@ LOCATION:Kalamunda Bulldogs (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-20-kwinana-titans@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260620T153000
 DTEND;TZID=Australia/Perth:20260620T173000
 SUMMARY:Seniors: Kwinana Titans vs South Perth Lions — Round 9
@@ -394,7 +394,7 @@ LOCATION:Thomas Oval\, Medina
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-20-rockingham-sharks@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260620T153000
 DTEND;TZID=Australia/Perth:20260620T173000
 SUMMARY:Seniors: Rockingham Sharks vs Joondalup Giants — Round 9
@@ -403,7 +403,7 @@ LOCATION:Franklin Offshore Stadium\, Lark Hill Sportsplex\, Port Kennedy
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-20-willagee-bears@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260620T153000
 DTEND;TZID=Australia/Perth:20260620T173000
 SUMMARY:Seniors: Willagee Bears vs North Beach Sea Eagles — Round 9
@@ -412,7 +412,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-27-ellenbrook-rabbitohs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260627T100000
 DTEND;TZID=Australia/Perth:20260627T120000
 SUMMARY:Seniors: Ellenbrook Rabbitohs vs BYE — Round 10
@@ -421,7 +421,7 @@ LOCATION:Ellenbrook Rabbitohs (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-27-fremantle-roosters@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260627T153000
 DTEND;TZID=Australia/Perth:20260627T173000
 SUMMARY:Seniors: Fremantle Roosters vs Willagee Bears — Round 10
@@ -430,7 +430,7 @@ LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-27-kalamunda-bulldogs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260627T153000
 DTEND;TZID=Australia/Perth:20260627T173000
 SUMMARY:Seniors: Kalamunda Bulldogs vs South Perth Lions — Round 10
@@ -439,7 +439,7 @@ LOCATION:Hartfield Park\, Forrestfield
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-27-kwinana-titans@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260627T153000
 DTEND;TZID=Australia/Perth:20260627T173000
 SUMMARY:Seniors: Kwinana Titans vs Rockingham Sharks — Round 10
@@ -448,7 +448,7 @@ LOCATION:Thomas Oval\, Medina
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-27-north-beach-sea-eagles@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260627T153000
 DTEND;TZID=Australia/Perth:20260627T173000
 SUMMARY:Seniors: North Beach Sea Eagles vs Joondalup Giants — Round 10
@@ -457,7 +457,7 @@ LOCATION:Blueforce Park\, Charles Riley Reserve\, North Beach
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-04-bye@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260704T100000
 DTEND;TZID=Australia/Perth:20260704T120000
 SUMMARY:Seniors: BYE vs North Beach Sea Eagles — Round 11
@@ -466,7 +466,7 @@ LOCATION:BYE (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-04-kalamunda-bulldogs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260704T153000
 DTEND;TZID=Australia/Perth:20260704T173000
 SUMMARY:Seniors: Kalamunda Bulldogs vs Ellenbrook Rabbitohs — Round 11
@@ -475,7 +475,7 @@ LOCATION:Hartfield Park\, Forrestfield
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-04-kwinana-titans@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260704T153000
 DTEND;TZID=Australia/Perth:20260704T173000
 SUMMARY:Seniors: Kwinana Titans vs Willagee Bears — Round 11
@@ -484,7 +484,7 @@ LOCATION:Thomas Oval\, Medina
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-04-rockingham-sharks@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260704T153000
 DTEND;TZID=Australia/Perth:20260704T173000
 SUMMARY:Seniors: Rockingham Sharks vs Fremantle Roosters — Round 11
@@ -493,7 +493,7 @@ LOCATION:Franklin Offshore Stadium\, Lark Hill Sportsplex\, Port Kennedy
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-04-south-perth-lions@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260704T153000
 DTEND;TZID=Australia/Perth:20260704T173000
 SUMMARY:Seniors: South Perth Lions vs Joondalup Giants — Round 11
@@ -502,7 +502,7 @@ LOCATION:George Burnett Park\, Karawara
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-11-ellenbrook-rabbitohs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260711T153000
 DTEND;TZID=Australia/Perth:20260711T173000
 SUMMARY:Seniors: Ellenbrook Rabbitohs vs Kwinana Titans — Round 12
@@ -511,7 +511,7 @@ LOCATION:Charlottes Vineyard Sports Pavilion\, Ellenbrook
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-11-fremantle-roosters@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260711T153000
 DTEND;TZID=Australia/Perth:20260711T173000
 SUMMARY:Seniors: Fremantle Roosters vs North Beach Sea Eagles — Round 12
@@ -520,7 +520,7 @@ LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-11-joondalup-giants@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260711T100000
 DTEND;TZID=Australia/Perth:20260711T120000
 SUMMARY:Seniors: Joondalup Giants vs BYE — Round 12
@@ -529,7 +529,7 @@ LOCATION:Joondalup Giants (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-11-kalamunda-bulldogs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260711T153000
 DTEND;TZID=Australia/Perth:20260711T173000
 SUMMARY:Seniors: Kalamunda Bulldogs vs Rockingham Sharks — Round 12
@@ -538,7 +538,7 @@ LOCATION:Hartfield Park\, Forrestfield
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-11-willagee-bears@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260711T153000
 DTEND;TZID=Australia/Perth:20260711T173000
 SUMMARY:Seniors: Willagee Bears vs South Perth Lions — Round 12
@@ -547,7 +547,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-18-bye@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260718T100000
 DTEND;TZID=Australia/Perth:20260718T120000
 SUMMARY:Seniors: BYE vs Willagee Bears — Round 13
@@ -556,7 +556,7 @@ LOCATION:BYE (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-18-joondalup-giants@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260718T153000
 DTEND;TZID=Australia/Perth:20260718T173000
 SUMMARY:Seniors: Joondalup Giants vs Fremantle Roosters — Round 13
@@ -565,7 +565,7 @@ LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-18-kalamunda-bulldogs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260718T153000
 DTEND;TZID=Australia/Perth:20260718T173000
 SUMMARY:Seniors: Kalamunda Bulldogs vs Kwinana Titans — Round 13
@@ -574,7 +574,7 @@ LOCATION:Hartfield Park\, Forrestfield
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-18-rockingham-sharks@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260718T153000
 DTEND;TZID=Australia/Perth:20260718T173000
 SUMMARY:Seniors: Rockingham Sharks vs North Beach Sea Eagles — Round 13
@@ -583,7 +583,7 @@ LOCATION:Franklin Offshore Stadium\, Lark Hill Sportsplex\, Port Kennedy
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-18-south-perth-lions@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260718T153000
 DTEND;TZID=Australia/Perth:20260718T173000
 SUMMARY:Seniors: South Perth Lions vs Ellenbrook Rabbitohs — Round 13
@@ -592,7 +592,7 @@ LOCATION:George Burnett Park\, Karawara
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-25-ellenbrook-rabbitohs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260725T153000
 DTEND;TZID=Australia/Perth:20260725T173000
 SUMMARY:Seniors: Ellenbrook Rabbitohs vs Rockingham Sharks — Round 14
@@ -601,7 +601,7 @@ LOCATION:Charlottes Vineyard Sports Pavilion\, Ellenbrook
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-25-fremantle-roosters@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260725T100000
 DTEND;TZID=Australia/Perth:20260725T120000
 SUMMARY:Seniors: Fremantle Roosters vs BYE — Round 14
@@ -610,7 +610,7 @@ LOCATION:Fremantle Roosters (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-25-kwinana-titans@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260725T153000
 DTEND;TZID=Australia/Perth:20260725T173000
 SUMMARY:Seniors: Kwinana Titans vs Joondalup Giants — Round 14
@@ -619,7 +619,7 @@ LOCATION:Thomas Oval\, Medina
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-25-north-beach-sea-eagles@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260725T153000
 DTEND;TZID=Australia/Perth:20260725T173000
 SUMMARY:Seniors: North Beach Sea Eagles vs South Perth Lions — Round 14
@@ -628,7 +628,7 @@ LOCATION:Blueforce Park\, Charles Riley Reserve\, North Beach
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-25-willagee-bears@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260725T153000
 DTEND;TZID=Australia/Perth:20260725T173000
 SUMMARY:Seniors: Willagee Bears vs Kalamunda Bulldogs — Round 14
@@ -637,7 +637,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-01-ellenbrook-rabbitohs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260801T153000
 DTEND;TZID=Australia/Perth:20260801T173000
 SUMMARY:Seniors: Ellenbrook Rabbitohs vs Willagee Bears — Round 15
@@ -646,7 +646,7 @@ LOCATION:Charlottes Vineyard Sports Pavilion\, Ellenbrook
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-01-kalamunda-bulldogs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260801T153000
 DTEND;TZID=Australia/Perth:20260801T173000
 SUMMARY:Seniors: Kalamunda Bulldogs vs Joondalup Giants — Round 15
@@ -655,7 +655,7 @@ LOCATION:Hartfield Park\, Forrestfield
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-01-kwinana-titans@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260801T153000
 DTEND;TZID=Australia/Perth:20260801T173000
 SUMMARY:Seniors: Kwinana Titans vs North Beach Sea Eagles — Round 15
@@ -664,7 +664,7 @@ LOCATION:Thomas Oval\, Medina
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-01-rockingham-sharks@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260801T100000
 DTEND;TZID=Australia/Perth:20260801T120000
 SUMMARY:Seniors: Rockingham Sharks vs BYE — Round 15
@@ -673,7 +673,7 @@ LOCATION:Rockingham Sharks (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-01-south-perth-lions@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260801T153000
 DTEND;TZID=Australia/Perth:20260801T173000
 SUMMARY:Seniors: South Perth Lions vs Fremantle Roosters — Round 15
@@ -682,7 +682,7 @@ LOCATION:George Burnett Park\, Karawara
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-09-bye@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260809T100000
 DTEND;TZID=Australia/Perth:20260809T120000
 SUMMARY:Seniors: BYE vs South Perth Lions — Round 16
@@ -691,7 +691,7 @@ LOCATION:BYE (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-09-fremantle-roosters@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260809T153000
 DTEND;TZID=Australia/Perth:20260809T173000
 SUMMARY:Seniors: Fremantle Roosters vs Kwinana Titans — Round 16
@@ -700,7 +700,7 @@ LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-09-joondalup-giants@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260809T153000
 DTEND;TZID=Australia/Perth:20260809T173000
 SUMMARY:Seniors: Joondalup Giants vs Ellenbrook Rabbitohs — Round 16
@@ -709,7 +709,7 @@ LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-09-north-beach-sea-eagles@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260809T153000
 DTEND;TZID=Australia/Perth:20260809T173000
 SUMMARY:Seniors: North Beach Sea Eagles vs Kalamunda Bulldogs — Round 16
@@ -718,7 +718,7 @@ LOCATION:Blueforce Park\, Charles Riley Reserve\, North Beach
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-09-willagee-bears@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260809T153000
 DTEND;TZID=Australia/Perth:20260809T173000
 SUMMARY:Seniors: Willagee Bears vs Rockingham Sharks — Round 16
@@ -727,7 +727,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-15-ellenbrook-rabbitohs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260815T153000
 DTEND;TZID=Australia/Perth:20260815T173000
 SUMMARY:Seniors: Ellenbrook Rabbitohs vs North Beach Sea Eagles — Round 17
@@ -736,7 +736,7 @@ LOCATION:Charlottes Vineyard Sports Pavilion\, Ellenbrook
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-15-kalamunda-bulldogs@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260815T153000
 DTEND;TZID=Australia/Perth:20260815T173000
 SUMMARY:Seniors: Kalamunda Bulldogs vs Fremantle Roosters — Round 17
@@ -745,7 +745,7 @@ LOCATION:Hartfield Park\, Forrestfield
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-15-kwinana-titans@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260815T100000
 DTEND;TZID=Australia/Perth:20260815T120000
 SUMMARY:Seniors: Kwinana Titans vs BYE — Round 17
@@ -754,7 +754,7 @@ LOCATION:Kwinana Titans (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-15-rockingham-sharks@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260815T153000
 DTEND;TZID=Australia/Perth:20260815T173000
 SUMMARY:Seniors: Rockingham Sharks vs South Perth Lions — Round 17
@@ -763,7 +763,7 @@ LOCATION:Franklin Offshore Stadium\, Lark Hill Sportsplex\, Port Kennedy
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-15-willagee-bears@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260815T153000
 DTEND;TZID=Australia/Perth:20260815T173000
 SUMMARY:Seniors: Willagee Bears vs Joondalup Giants — Round 17
@@ -772,7 +772,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-22-bye@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260822T100000
 DTEND;TZID=Australia/Perth:20260822T120000
 SUMMARY:Seniors: BYE vs Kalamunda Bulldogs — Round 18
@@ -781,7 +781,7 @@ LOCATION:BYE (home ground)
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-22-fremantle-roosters@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260822T153000
 DTEND;TZID=Australia/Perth:20260822T173000
 SUMMARY:Seniors: Fremantle Roosters vs Ellenbrook Rabbitohs — Round 18
@@ -790,7 +790,7 @@ LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-22-joondalup-giants@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260822T153000
 DTEND;TZID=Australia/Perth:20260822T173000
 SUMMARY:Seniors: Joondalup Giants vs Rockingham Sharks — Round 18
@@ -799,7 +799,7 @@ LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-22-north-beach-sea-eagles@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260822T153000
 DTEND;TZID=Australia/Perth:20260822T173000
 SUMMARY:Seniors: North Beach Sea Eagles vs Willagee Bears — Round 18
@@ -808,7 +808,7 @@ LOCATION:Blueforce Park\, Charles Riley Reserve\, North Beach
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-22-south-perth-lions@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260822T153000
 DTEND;TZID=Australia/Perth:20260822T173000
 SUMMARY:Seniors: South Perth Lions vs Kwinana Titans — Round 18
@@ -817,7 +817,7 @@ LOCATION:George Burnett Park\, Karawara
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-29-tbc@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260829T100000
 DTEND;TZID=Australia/Perth:20260829T120000
 SUMMARY:Seniors: TBC vs TBC — Semi Finals
@@ -826,7 +826,7 @@ LOCATION:TBC
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-09-05-tbc@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260905T100000
 DTEND;TZID=Australia/Perth:20260905T120000
 SUMMARY:Seniors: TBC vs TBC — Preliminary Finals
@@ -835,7 +835,7 @@ LOCATION:TBC
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-09-12-tbc@nrlwa2026cal
-DTSTAMP:20260325T075015Z
+DTSTAMP:20260325T075417Z
 DTSTART;TZID=Australia/Perth:20260912T100000
 DTEND;TZID=Australia/Perth:20260912T120000
 SUMMARY:Seniors: TBC vs TBC — Grand Finals
