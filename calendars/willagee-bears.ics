@@ -7,7 +7,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:fixture-2026-04-10-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260410T153000
 DTEND;TZID=Australia/Perth:20260410T173000
 SUMMARY:Willagee Bears vs Fremantle Roosters [HOME] — Round 1
@@ -16,7 +16,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-04-18-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260418T153000
 DTEND;TZID=Australia/Perth:20260418T173000
 SUMMARY:Willagee Bears vs Kwinana Titans [HOME] — Round 2
@@ -25,7 +25,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-02-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260502T153000
 DTEND;TZID=Australia/Perth:20260502T173000
 SUMMARY:Willagee Bears vs South Perth Lions [AWAY] — Round 3
@@ -34,7 +34,7 @@ LOCATION:George Burnett Park\, Karawara
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-09-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260509T100000
 DTEND;TZID=Australia/Perth:20260509T120000
 SUMMARY:Willagee Bears vs BYE [HOME] — Round 4
@@ -43,7 +43,7 @@ LOCATION:Home
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-16-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260516T153000
 DTEND;TZID=Australia/Perth:20260516T173000
 SUMMARY:Willagee Bears vs Kalamunda Bulldogs [AWAY] — Round 5
@@ -52,7 +52,7 @@ LOCATION:Hartfield Park\, Forrestfield
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-05-23-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260523T153000
 DTEND;TZID=Australia/Perth:20260523T173000
 SUMMARY:Willagee Bears vs Ellenbrook Rabbitohs [HOME] — Round 6
@@ -61,7 +61,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-06-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260606T153000
 DTEND;TZID=Australia/Perth:20260606T173000
 SUMMARY:Willagee Bears vs Rockingham Sharks [AWAY] — Round 7
@@ -70,7 +70,7 @@ LOCATION:Franklin Offshore Stadium\, Lark Hill Sportsplex\, Port Kennedy
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-13-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260613T153000
 DTEND;TZID=Australia/Perth:20260613T173000
 SUMMARY:Willagee Bears vs Joondalup Giants [AWAY] — Round 8
@@ -79,7 +79,7 @@ LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-20-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260620T153000
 DTEND;TZID=Australia/Perth:20260620T173000
 SUMMARY:Willagee Bears vs North Beach Sea Eagles [HOME] — Round 9
@@ -88,7 +88,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-06-27-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260627T153000
 DTEND;TZID=Australia/Perth:20260627T173000
 SUMMARY:Willagee Bears vs Fremantle Roosters [AWAY] — Round 10
@@ -97,7 +97,7 @@ LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-04-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260704T153000
 DTEND;TZID=Australia/Perth:20260704T173000
 SUMMARY:Willagee Bears vs Kwinana Titans [AWAY] — Round 11
@@ -106,7 +106,7 @@ LOCATION:Thomas Oval\, Medina
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-11-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260711T153000
 DTEND;TZID=Australia/Perth:20260711T173000
 SUMMARY:Willagee Bears vs South Perth Lions [HOME] — Round 12
@@ -115,7 +115,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-18-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260718T100000
 DTEND;TZID=Australia/Perth:20260718T120000
 SUMMARY:Willagee Bears vs BYE [AWAY] — Round 13
@@ -124,7 +124,7 @@ LOCATION:Away
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-07-25-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260725T153000
 DTEND;TZID=Australia/Perth:20260725T173000
 SUMMARY:Willagee Bears vs Kalamunda Bulldogs [HOME] — Round 14
@@ -133,7 +133,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-01-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260801T153000
 DTEND;TZID=Australia/Perth:20260801T173000
 SUMMARY:Willagee Bears vs Ellenbrook Rabbitohs [AWAY] — Round 15
@@ -142,7 +142,7 @@ LOCATION:Charlottes Vineyard Sports Pavilion\, Ellenbrook
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-09-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260809T153000
 DTEND;TZID=Australia/Perth:20260809T173000
 SUMMARY:Willagee Bears vs Rockingham Sharks [HOME] — Round 16
@@ -151,7 +151,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-15-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260815T153000
 DTEND;TZID=Australia/Perth:20260815T173000
 SUMMARY:Willagee Bears vs Joondalup Giants [HOME] — Round 17
@@ -160,7 +160,7 @@ LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
 UID:fixture-2026-08-22-willagee-bears@northbeachseaeaglescal
-DTSTAMP:20260325T073327Z
+DTSTAMP:20260325T073620Z
 DTSTART;TZID=Australia/Perth:20260822T153000
 DTEND;TZID=Australia/Perth:20260822T173000
 SUMMARY:Willagee Bears vs North Beach Sea Eagles [AWAY] — Round 18
