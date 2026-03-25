@@ -1,13 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//SportsICSCal//ICS Generator 1.0//EN
-X-WR-CALNAME:North Beach Sea Eagles
-X-WR-CALDESC:North Beach Sea Eagles fixtures
+X-WR-CALNAME:NRLWA 2026
+X-WR-CALDESC:NRLWA 2026 fixtures
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:fixture-2026-04-10-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-04-10-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260410T153000
 DTEND;TZID=Australia/Perth:20260410T173000
 SUMMARY:Fremantle Roosters vs Willagee Bears [AWAY] — Round 1
@@ -15,8 +15,8 @@ DESCRIPTION:Round 1\n\nAWAY fixture\nOpponent: Willagee Bears\nVenue: Webber Res
 LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-04-18-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-04-18-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260418T153000
 DTEND;TZID=Australia/Perth:20260418T173000
 SUMMARY:Fremantle Roosters vs Rockingham Sharks [HOME] — Round 2
@@ -24,8 +24,8 @@ DESCRIPTION:Round 2\n\nHOME fixture\nOpponent: Rockingham Sharks\nVenue: Treeby 
 LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-05-02-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-05-02-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260502T153000
 DTEND;TZID=Australia/Perth:20260502T173000
 SUMMARY:Fremantle Roosters vs North Beach Sea Eagles [AWAY] — Round 3
@@ -33,8 +33,8 @@ DESCRIPTION:Round 3\n\nAWAY fixture\nOpponent: North Beach Sea Eagles\nVenue: Bl
 LOCATION:Blueforce Park\, Charles Riley Reserve\, North Beach
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-05-09-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-05-09-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260509T153000
 DTEND;TZID=Australia/Perth:20260509T173000
 SUMMARY:Fremantle Roosters vs Joondalup Giants [HOME] — Round 4
@@ -42,8 +42,8 @@ DESCRIPTION:Round 4\n\nHOME fixture\nOpponent: Joondalup Giants\nVenue: Treeby C
 LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-05-16-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-05-16-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260516T100000
 DTEND;TZID=Australia/Perth:20260516T120000
 SUMMARY:Fremantle Roosters vs BYE [AWAY] — Round 5
@@ -51,8 +51,8 @@ DESCRIPTION:Round 5\n\nAWAY fixture\nOpponent: BYE\n\nKICK-OFF TIMES:\n  • Fir
 LOCATION:Away
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-05-23-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-05-23-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260523T153000
 DTEND;TZID=Australia/Perth:20260523T173000
 SUMMARY:Fremantle Roosters vs South Perth Lions [HOME] — Round 6
@@ -60,8 +60,8 @@ DESCRIPTION:Round 6\n\nHOME fixture\nOpponent: South Perth Lions\nVenue: Treeby 
 LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-06-06-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-06-06-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260606T153000
 DTEND;TZID=Australia/Perth:20260606T173000
 SUMMARY:Fremantle Roosters vs Kwinana Titans [AWAY] — Round 7
@@ -69,8 +69,8 @@ DESCRIPTION:Round 7\n\nAWAY fixture\nOpponent: Kwinana Titans\nVenue: Thomas Ova
 LOCATION:Thomas Oval\, Medina
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-06-13-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-06-13-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260613T153000
 DTEND;TZID=Australia/Perth:20260613T173000
 SUMMARY:Fremantle Roosters vs Kalamunda Bulldogs [HOME] — Round 8
@@ -78,8 +78,8 @@ DESCRIPTION:Round 8\n\nHOME fixture\nOpponent: Kalamunda Bulldogs\nVenue: Treeby
 LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-06-20-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-06-20-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260620T153000
 DTEND;TZID=Australia/Perth:20260620T173000
 SUMMARY:Fremantle Roosters vs Ellenbrook Rabbitohs [AWAY] — Round 9
@@ -87,8 +87,8 @@ DESCRIPTION:Round 9\n\nAWAY fixture\nOpponent: Ellenbrook Rabbitohs\nVenue: Char
 LOCATION:Charlottes Vineyard Sports Pavilion\, Ellenbrook
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-06-27-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-06-27-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260627T153000
 DTEND;TZID=Australia/Perth:20260627T173000
 SUMMARY:Fremantle Roosters vs Willagee Bears [HOME] — Round 10
@@ -96,8 +96,8 @@ DESCRIPTION:Round 10\n\nHOME fixture\nOpponent: Willagee Bears\nVenue: Treeby Co
 LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-07-04-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-07-04-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260704T153000
 DTEND;TZID=Australia/Perth:20260704T173000
 SUMMARY:Fremantle Roosters vs Rockingham Sharks [AWAY] — Round 11
@@ -105,8 +105,8 @@ DESCRIPTION:Round 11\n\nAWAY fixture\nOpponent: Rockingham Sharks\nVenue: Frankl
 LOCATION:Franklin Offshore Stadium\, Lark Hill Sportsplex\, Port Kennedy
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-07-11-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-07-11-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260711T153000
 DTEND;TZID=Australia/Perth:20260711T173000
 SUMMARY:Fremantle Roosters vs North Beach Sea Eagles [HOME] — Round 12
@@ -114,8 +114,8 @@ DESCRIPTION:Round 12\n\nHOME fixture\nOpponent: North Beach Sea Eagles\nVenue: T
 LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-07-18-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-07-18-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260718T153000
 DTEND;TZID=Australia/Perth:20260718T173000
 SUMMARY:Fremantle Roosters vs Joondalup Giants [AWAY] — Round 13
@@ -123,8 +123,8 @@ DESCRIPTION:Round 13\n\nAWAY fixture\nOpponent: Joondalup Giants\nVenue: Admiral
 LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-07-25-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-07-25-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260725T100000
 DTEND;TZID=Australia/Perth:20260725T120000
 SUMMARY:Fremantle Roosters vs BYE [HOME] — Round 14
@@ -132,8 +132,8 @@ DESCRIPTION:Round 14\n\nHOME fixture\nOpponent: BYE\nVenue: Home ground\n\nKICK-
 LOCATION:Home
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-08-01-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-08-01-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260801T153000
 DTEND;TZID=Australia/Perth:20260801T173000
 SUMMARY:Fremantle Roosters vs South Perth Lions [AWAY] — Round 15
@@ -141,8 +141,8 @@ DESCRIPTION:Round 15\n\nAWAY fixture\nOpponent: South Perth Lions\nVenue: George
 LOCATION:George Burnett Park\, Karawara
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-08-09-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-08-09-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260809T153000
 DTEND;TZID=Australia/Perth:20260809T173000
 SUMMARY:Fremantle Roosters vs Kwinana Titans [HOME] — Round 16
@@ -150,8 +150,8 @@ DESCRIPTION:Round 16\n\nHOME fixture\nOpponent: Kwinana Titans\nVenue: Treeby Co
 LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-08-15-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-08-15-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260815T153000
 DTEND;TZID=Australia/Perth:20260815T173000
 SUMMARY:Fremantle Roosters vs Kalamunda Bulldogs [AWAY] — Round 17
@@ -159,8 +159,8 @@ DESCRIPTION:Round 17\n\nAWAY fixture\nOpponent: Kalamunda Bulldogs\nVenue: Hartf
 LOCATION:Hartfield Park\, Forrestfield
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-08-22-fremantle-roosters@northbeachseaeaglescal
-DTSTAMP:20260325T074312Z
+UID:fixture-2026-08-22-fremantle-roosters@nrlwa2026cal
+DTSTAMP:20260325T075020Z
 DTSTART;TZID=Australia/Perth:20260822T153000
 DTEND;TZID=Australia/Perth:20260822T173000
 SUMMARY:Fremantle Roosters vs Ellenbrook Rabbitohs [HOME] — Round 18
