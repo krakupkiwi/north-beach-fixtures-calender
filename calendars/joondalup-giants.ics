@@ -1,13 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//SportsICSCal//ICS Generator 1.0//EN
-X-WR-CALNAME:North Beach Sea Eagles
-X-WR-CALDESC:North Beach Sea Eagles fixtures
+X-WR-CALNAME:NRLWA 2026
+X-WR-CALDESC:NRLWA 2026 fixtures
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:fixture-2026-04-10-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-04-10-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260410T153000
 DTEND;TZID=Australia/Perth:20260410T173000
 SUMMARY:Joondalup Giants vs North Beach Sea Eagles [HOME] — Round 1
@@ -15,8 +15,8 @@ DESCRIPTION:Round 1\n\nHOME fixture\nOpponent: North Beach Sea Eagles\nVenue: Ad
 LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-04-18-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-04-18-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260418T153000
 DTEND;TZID=Australia/Perth:20260418T173000
 SUMMARY:Joondalup Giants vs South Perth Lions [HOME] — Round 2
@@ -24,8 +24,8 @@ DESCRIPTION:Round 2\n\nHOME fixture\nOpponent: South Perth Lions\nVenue: Admiral
 LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-05-02-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-05-02-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260502T100000
 DTEND;TZID=Australia/Perth:20260502T120000
 SUMMARY:Joondalup Giants vs BYE [AWAY] — Round 3
@@ -33,8 +33,8 @@ DESCRIPTION:Round 3\n\nAWAY fixture\nOpponent: BYE\n\nKICK-OFF TIMES:\n  • Fir
 LOCATION:Away
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-05-09-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-05-09-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260509T153000
 DTEND;TZID=Australia/Perth:20260509T173000
 SUMMARY:Joondalup Giants vs Fremantle Roosters [AWAY] — Round 4
@@ -42,8 +42,8 @@ DESCRIPTION:Round 4\n\nAWAY fixture\nOpponent: Fremantle Roosters\nVenue: Treeby
 LOCATION:Treeby Community & Sports Centre\, Treeby
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-05-16-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-05-16-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260516T153000
 DTEND;TZID=Australia/Perth:20260516T173000
 SUMMARY:Joondalup Giants vs Kwinana Titans [HOME] — Round 5
@@ -51,8 +51,8 @@ DESCRIPTION:Round 5\n\nHOME fixture\nOpponent: Kwinana Titans\nVenue: Admiral Pa
 LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-05-23-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-05-23-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260523T153000
 DTEND;TZID=Australia/Perth:20260523T173000
 SUMMARY:Joondalup Giants vs Kalamunda Bulldogs [HOME] — Round 6
@@ -60,8 +60,8 @@ DESCRIPTION:Round 6\n\nHOME fixture\nOpponent: Kalamunda Bulldogs\nVenue: Admira
 LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-06-06-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-06-06-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260606T153000
 DTEND;TZID=Australia/Perth:20260606T173000
 SUMMARY:Joondalup Giants vs Ellenbrook Rabbitohs [AWAY] — Round 7
@@ -69,8 +69,8 @@ DESCRIPTION:Round 7\n\nAWAY fixture\nOpponent: Ellenbrook Rabbitohs\nVenue: Char
 LOCATION:Charlottes Vineyard Sports Pavilion\, Ellenbrook
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-06-13-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-06-13-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260613T153000
 DTEND;TZID=Australia/Perth:20260613T173000
 SUMMARY:Joondalup Giants vs Willagee Bears [HOME] — Round 8
@@ -78,8 +78,8 @@ DESCRIPTION:Round 8\n\nHOME fixture\nOpponent: Willagee Bears\nVenue: Admiral Pa
 LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-06-20-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-06-20-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260620T153000
 DTEND;TZID=Australia/Perth:20260620T173000
 SUMMARY:Joondalup Giants vs Rockingham Sharks [AWAY] — Round 9
@@ -87,8 +87,8 @@ DESCRIPTION:Round 9\n\nAWAY fixture\nOpponent: Rockingham Sharks\nVenue: Frankli
 LOCATION:Franklin Offshore Stadium\, Lark Hill Sportsplex\, Port Kennedy
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-06-27-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-06-27-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260627T153000
 DTEND;TZID=Australia/Perth:20260627T173000
 SUMMARY:Joondalup Giants vs North Beach Sea Eagles [AWAY] — Round 10
@@ -96,8 +96,8 @@ DESCRIPTION:Round 10\n\nAWAY fixture\nOpponent: North Beach Sea Eagles\nVenue: B
 LOCATION:Blueforce Park\, Charles Riley Reserve\, North Beach
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-07-04-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-07-04-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260704T153000
 DTEND;TZID=Australia/Perth:20260704T173000
 SUMMARY:Joondalup Giants vs South Perth Lions [AWAY] — Round 11
@@ -105,8 +105,8 @@ DESCRIPTION:Round 11\n\nAWAY fixture\nOpponent: South Perth Lions\nVenue: George
 LOCATION:George Burnett Park\, Karawara
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-07-11-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-07-11-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260711T100000
 DTEND;TZID=Australia/Perth:20260711T120000
 SUMMARY:Joondalup Giants vs BYE [HOME] — Round 12
@@ -114,8 +114,8 @@ DESCRIPTION:Round 12\n\nHOME fixture\nOpponent: BYE\nVenue: Home ground\n\nKICK-
 LOCATION:Home
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-07-18-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-07-18-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260718T153000
 DTEND;TZID=Australia/Perth:20260718T173000
 SUMMARY:Joondalup Giants vs Fremantle Roosters [HOME] — Round 13
@@ -123,8 +123,8 @@ DESCRIPTION:Round 13\n\nHOME fixture\nOpponent: Fremantle Roosters\nVenue: Admir
 LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-07-25-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-07-25-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260725T153000
 DTEND;TZID=Australia/Perth:20260725T173000
 SUMMARY:Joondalup Giants vs Kwinana Titans [AWAY] — Round 14
@@ -132,8 +132,8 @@ DESCRIPTION:Round 14\n\nAWAY fixture\nOpponent: Kwinana Titans\nVenue: Thomas Ov
 LOCATION:Thomas Oval\, Medina
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-08-01-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-08-01-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260801T153000
 DTEND;TZID=Australia/Perth:20260801T173000
 SUMMARY:Joondalup Giants vs Kalamunda Bulldogs [AWAY] — Round 15
@@ -141,8 +141,8 @@ DESCRIPTION:Round 15\n\nAWAY fixture\nOpponent: Kalamunda Bulldogs\nVenue: Hartf
 LOCATION:Hartfield Park\, Forrestfield
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-08-09-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-08-09-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260809T153000
 DTEND;TZID=Australia/Perth:20260809T173000
 SUMMARY:Joondalup Giants vs Ellenbrook Rabbitohs [HOME] — Round 16
@@ -150,8 +150,8 @@ DESCRIPTION:Round 16\n\nHOME fixture\nOpponent: Ellenbrook Rabbitohs\nVenue: Adm
 LOCATION:Admiral Park\, Heathridge
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-08-15-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-08-15-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260815T153000
 DTEND;TZID=Australia/Perth:20260815T173000
 SUMMARY:Joondalup Giants vs Willagee Bears [AWAY] — Round 17
@@ -159,8 +159,8 @@ DESCRIPTION:Round 17\n\nAWAY fixture\nOpponent: Willagee Bears\nVenue: Webber Re
 LOCATION:Webber Reserve\, Willagee
 END:VEVENT
 BEGIN:VEVENT
-UID:fixture-2026-08-22-joondalup-giants@northbeachseaeaglescal
-DTSTAMP:20260325T074314Z
+UID:fixture-2026-08-22-joondalup-giants@nrlwa2026cal
+DTSTAMP:20260325T075021Z
 DTSTART;TZID=Australia/Perth:20260822T153000
 DTEND;TZID=Australia/Perth:20260822T173000
 SUMMARY:Joondalup Giants vs Rockingham Sharks [HOME] — Round 18
